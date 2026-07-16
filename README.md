@@ -102,7 +102,11 @@ Earnings Call Transcripts
 
 ### Executive Dashboard
 
-> *(Insert dashboard screenshot here)*
+<img width="1400" height="730" alt="Screenshot 2026-07-16 234143" src="https://github.com/user-attachments/assets/6bc08e21-8e92-44c2-84f8-d152b19552b7" />
+
+<img width="1367" height="727" alt="Screenshot 2026-07-16 234211" src="https://github.com/user-attachments/assets/84318e6f-b27b-432e-a1d7-3eb6dd8383d9" />
+
+
 
 ---
 
